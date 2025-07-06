@@ -54,3 +54,9 @@ A project combining CNN model training with Gemma 3n for image classification ta
 1. Add your CNN model files to the `model/` directory
 2. Place inference scripts in the `inference/` directory
 3. Use `data/sample_images/` for test images that work with both CNN and Gemma approaches
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/nicoletamocanu/)
+- [YouTube](https://www.youtube.com/@nicoletamocanu2694)
+- [Discord](https://discord.gg/X8KtYGDa)
