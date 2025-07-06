@@ -1,4 +1,4 @@
-# CNN-Gemma Playground
+# CNN-Gemma3n Playground
 
 A project combining CNN model training with Gemma 3n for image classification tasks.
 
