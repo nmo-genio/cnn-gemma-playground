@@ -47,6 +47,10 @@ A project combining CNN model training with Gemma 3n for image classification ta
 - Add inference scripts to the `inference/` directory
 - These scripts can load trained models and perform image classification
 
+## Known Issues
+
+- **Gemma 3n Model Issue**: There is a known issue with the Gemma 3n model's handling of image inputs. For more details, please refer to the [Hugging Face discussion](https://huggingface.co/google/gemma-3n-E4B-it/discussions/8#68665baa7548e5ed1ed63af3).
+
 ## Contributing
 
 1. Add your CNN model files to the `model/` directory
